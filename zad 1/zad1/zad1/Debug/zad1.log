@@ -1,0 +1,5 @@
+﻿  zad1.cpp
+e:\zzz\nowy folder (2)\lab2\zad 1\zad1\zad1\zad1.cpp(42): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+e:\zzz\nowy folder (2)\lab2\zad 1\zad1\zad1\zad1.cpp(43): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  zad1.vcxproj -> E:\zzz\Nowy folder (2)\lab2\zad 1\zad1\Debug\zad1.exe
+  zad1.vcxproj -> E:\zzz\Nowy folder (2)\lab2\zad 1\zad1\Debug\zad1.pdb (Partial PDB)
